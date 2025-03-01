@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muthu Pandi</h1>
-<h3 align="center">Aspiring Full Stack Developer with a Passion for Creating Seamless Web Experiences</h3>
+<h3 align="center">Full Stack Developer | Passionate About Building Scalable & Interactive Web Applications</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🎓 I have completed a **Full Stack Development** course.  
+- 💼 I’m currently **searching for job opportunities** while continuing to enhance my skills.  
+- 🌱 I'm learning and exploring **advanced web technologies**.  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
